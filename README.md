@@ -1,6 +1,6 @@
 # Aaron Dayrit - Blog
 
-## [CLICK HERE](https://aarondayrit.github.io/aaron-dayrit.github.io/Intro_To_Web_Development/FINAL-PROJECT/index.html) To view my website!
+## [CLICK HERE](https://aarondayrit.github.io/Blog-Website/FINAL-PROJECT/index.html) To view my website!
 
 This is my portfolio representing who I am and topics and interests I find to have a significance in life.
 ## Persona
