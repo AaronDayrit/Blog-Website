@@ -5,11 +5,12 @@
 This is my portfolio representing who I am and topics and interests I find to have a significance in life.
 ## Persona
     
-* Hambo Balogna
-* Matured
-* Winnipeg Manitoba
-* Personal Trainer
-* Bicep curls
+* Readers Name -Hambo Balogna
+* Demographic - Matured young adult
+* Location - Winnipeg Manitoba
+* Job/Role - Personal Trainer
+* Favorite activity - Bicep curls
+* Purpose of reading - Explore my interests and relate
 
 ## Access
 It will be listed in a professional GitHub repository used for reference materials for job applications.
