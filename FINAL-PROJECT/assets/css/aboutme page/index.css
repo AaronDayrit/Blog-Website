@@ -64,6 +64,12 @@
     align-items: center;
     justify-content: center;
     }
+
+    .bolded-text{
+        font-weight: 600;
+        color: #777a7d;
+        font-family: 'Source Sans Pro', sans-serif;
+    }
     
     .landing-screen2 .text-container h2{
     color: #faf9f5;
