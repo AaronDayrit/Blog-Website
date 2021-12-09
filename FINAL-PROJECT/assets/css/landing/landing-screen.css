@@ -1,0 +1,117 @@
+    @import "base.css";
+    
+    /*
+    --------------------------------------------------------
+    INITIAL LANDING SCREEN OF PAGE
+    --------------------------------------------------------
+    */
+
+    .landing-screen{
+    height: calc(100vh - 130px);
+    width: 100%;
+    background-image: url(../../images/landing2.jpg);
+    background-size: cover;
+    background-position:center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px;
+    }
+    
+    .landing-screen .container .text-container{
+    width: 100%;
+    height: calc(100vh - 130px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    
+    .landing-screen h2{
+    width: 100%;
+    font-size: 80px;
+    letter-spacing: 10px;
+    margin: 0 auto;
+    margin-top: -40px;
+    color: #41464f;
+    margin-bottom: 0px;
+    text-align: center;
+    }
+    
+    .landing-screen p{
+    font-size: 17.5px;
+    color: #41464f;
+    font-weight: 600;
+    letter-spacing: 2px;
+    }
+
+    /*
+    ----------------------------------------------------------------------------
+    Media Queries
+    ----------------------------------------------------------------------------
+    */
+
+    /*
+    --------------------------------------------------------
+    Hero bannerr sizing
+    --------------------------------------------------------
+    */
+
+    @media screen and (min-width: 320px){
+        .landing-screen .container{
+        width: 100%;
+        }
+        
+        .landing-screen h2{
+        font-size: 40px;
+        letter-spacing: 7px;
+        
+        }
+        
+        .landing-screen p{
+        font-size: 15.5px;
+        }
+    }
+
+    @media screen and (min-width: 580px){
+        .landing-screen .container{
+        width: 90%;
+        }
+        
+        .landing-screen h2{
+        font-size: 52px;
+        letter-spacing: 8px;
+        }
+        
+        .landing-screen p{
+        font-size: 16px;
+        }
+    }
+    
+    
+    @media screen and (min-width: 768px) and (max-width: 1024px){
+        .landing-screen h2{
+        font-size: 63px;
+        letter-spacing: 9.5px;
+        }
+        
+        .landing-screen p{
+        font-size: 17px;
+        }
+    }
+    
+    
+    @media screen and (min-width: 1024px){
+        .landing-screen .container{
+        width: 80%;
+        }
+        
+        .landing-screen h2{
+        font-size: 80px;
+        letter-spacing: 10px;
+        }
+        
+        .landing-screen p{
+        font-size: 17.5px;
+        }
+    }
